@@ -6,3 +6,7 @@ opener: safasdfasfda
 ---
 _fasfasdfasdfsdf_\
 **asdfadsf**
+
+<quote>
+This is the quote.
+</quote>
